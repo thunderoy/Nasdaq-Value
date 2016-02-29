@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Nasdaq-Value
+Version: 0.1
+Summary: Nasdaq module.
+Home-page: thunderoy.wordpress.com
+Author: Abhishek Kumar Roy
+Author-email: thuderoy013@gmail.com
+License: MIT
+Description: A module to get nasdaq value of a company.
+Platform: Linux

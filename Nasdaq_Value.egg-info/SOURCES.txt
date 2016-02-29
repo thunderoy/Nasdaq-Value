@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+Nasdaq_Value.egg-info/PKG-INFO
+Nasdaq_Value.egg-info/SOURCES.txt
+Nasdaq_Value.egg-info/dependency_links.txt
+Nasdaq_Value.egg-info/top_level.txt
+nasdaq_val/__init__.py
+nasdaq_val/nasdaq_gui.py
